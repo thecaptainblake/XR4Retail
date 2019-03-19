@@ -1,0 +1,18 @@
+{
+    "name": "VuforiaScripts",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unity.Analytics.Editor.dll",
+        "Unity.Analytics.StandardEvents.dll",
+        "Unity.Analytics.Tracker.dll",
+        "UnityEditor.Advertisements.dll",
+        "UnityEditor.Purchasing.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
